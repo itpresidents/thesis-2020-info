@@ -10,11 +10,11 @@ Install hugo
 
 Clone this repository recursive - to make sure you include the themes.
 
-    git clone git@github.com:oveddan/hackagainstcovid19.git --recursive
+    git clone git@github.com:itpresidents/thesis-2020-info.git --recursive
 
 Cd into the repo:
 
-    cd hackagainstcovid19
+    cd thesis-2020-info
 
 Start the server:
 
