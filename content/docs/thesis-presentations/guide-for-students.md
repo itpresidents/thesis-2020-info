@@ -1,5 +1,5 @@
 ---
-title: With ToC
+title: Guide for Students
 weight: 1
 ---
 # Caput vino delphine in tamen vias

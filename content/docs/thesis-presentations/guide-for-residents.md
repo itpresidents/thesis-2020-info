@@ -1,4 +1,5 @@
 ---
+title: Guide for Residents
 bookHidden: true
 ---
 

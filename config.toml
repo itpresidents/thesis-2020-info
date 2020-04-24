@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'https://itptheis2020.info'
-title = 'Itp Thesis 2020 Info'
+title = 'ITP Thesis 2020 Info'
 theme = 'book'
 
 # Book configuration
@@ -29,14 +29,9 @@ enableGitInfo = true
 [menu]
 # [[menu.before]]
 [[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
+  name = "Thesis Archive Admin"
+  url = "https://itp.nyu.edu/thesis2020/wp-admin/"
   weight = 10
-
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
