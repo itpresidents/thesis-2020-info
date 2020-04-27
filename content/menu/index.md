@@ -21,4 +21,5 @@ headless: true
 - **Useful Links**
 - [Thesis Archive Admin](https://itp.nyu.edu/thesis2020/wp-admin/)
 - [Thesis Journal](https://itp.nyu.edu/thesis2020/journal)
+- [Virtual Backgrounds]({{< relref "../docs/virtual-backgrounds" >}})
 <br />
