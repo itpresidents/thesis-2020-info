@@ -7,3 +7,24 @@
 aside nav >:last-child {
   margin-top: 40px;
 }
+
+.book-menu ul li strong {
+  text-transform: uppercase;
+}
+
+.book-menu {
+  .book-brand {
+    color: purple;
+
+    a, a:visited {
+      color: purple;
+    }
+  }
+
+  a, a:visited {
+    color: magenta;
+  }
+  a:hover {
+    color: green;
+  }
+}
