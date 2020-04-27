@@ -1,43 +1,12 @@
 ---
-title: Thesis Presentation Guide for Students
+title: Presentation Guide for Students
 weight: 1
 
 ---
 
-# Thesis Presentation Guide for Students
+# Presentation Guide for Students
 
 You will be presenting your thesis both during [Final Presentations]({{< relref "#may-5-final-presentations" >}}), on May 5th, and [Thesis Week](#may-12-15-thesis-week-presentations), on May 12-15.
-
-## Presentation Events
-### May 5: Final Presentations
-> The final week presentations are closer to a defense of your idea. There will be invited outside reviewers who are conversant with your topic. They will have read your Thesis Archive Statement and Context/Research summary ahead of time.
-
-* **WHO**: Grouped by themes
-* **WHAT**: 10 minute presentation; 15 minute critique
-* **WHEN**: 3:00p - 9:00p
-* **WHERE**: Zoom Meetings by themes
-
-#### Presentation Options:
-1. Student presents live over Zoom via "Share Screen"
-2. Student plays pre-recorded video over Zoom via "Share Screen"
-3. If student is for any reason unavailable to present at this time, the host (a resident) can play the student's pre-recorded video. **NOTE: If choosing option 3, video submission deadline is Saturday May 2, 5:00pm.** 
-
-The Residents will be holding practice sessions -- dates to be announced.
-
-### May 12-15: Thesis Week Presentations
-> Thesis week is a time of celebration. You present your work to the world. Yes, the world. It will be streamed. It’s fine to ask friends & family to your thesis week presentation. You may be nervous… but remember, you’ve done the hard work, now you get to show everyone what you’ve done and everyone in the audience is cheering you on.
-
-* **WHO**: Grouped by section
-* **WHAT**: 10 minute presentation
-* **WHEN**: May 12-15, 10:00a - 5:00p
-* **WHERE**:
-  * *Internal Zoom Webinar*
-  * *Public Live Stream* via `<TBD>`
-
-#### Presentation Options:
-1. Student presents live over Zoom via "Share Screen"
-2. Student plays pre-recorded video over Zoom via "Share Screen"
-3. If student is for any reason unavailable to present at this time, the host (a resident) can play the student's pre-recorded video. **NOTE: If choosing option 3, video submission deadline is Saturday May 9, 5:00pm.** 
 
 ## Instructions for Presenting
 
@@ -126,18 +95,3 @@ One of the challenges with streaming video from your computer with Zoom will be 
 ### On Windows
 
 Follow [this guide for changing your screen resolution on Windows 10.](https://support.microsoft.com/en-us/help/4026956/windows-10-change-screen-resolution)
-
-
-# Frequently Asked Questions
-
-**Should I do a pre-recorded video?**
-
-You and your project will connect more strongly with your audience if you present your project live. This is the recommended option. The main reason to show a video would be if you have media that's super high resolution, or you are in a different time zone and cannot be present during your presentation time. 
-
-**Will my presentation be available to view later?**
-
-Yes - we will be uploading recordings to a central location where it can be viewed indefinitely.
-
-**Can I invite non-itp people to view my presentation?**
-
-For thesis week, you can invite friends and family to view the presentation by giving them a link to the webinar.  They will join as webinar attendees.
