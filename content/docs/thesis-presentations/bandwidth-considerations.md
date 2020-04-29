@@ -5,6 +5,16 @@ weight: 3
 
 # Bandwidth Considerations
 
+## Thinking Ahead
+
+Consider using a wired connection, as your internet speeds are generally faster and more stable via a wired ethernet.
+
+Ask your family & friends who share your internet bandwidth to not use it when you are presenting.
+
+Turn off any devices that auto-upload. Your upload speeds are important so backing up photos to iCloud should probably wait.
+
+## Zoom Requirements
+
 Make sure your computer and internet connection are sufficient for presenting live. Luckily, sharing in Zoom is not that bandwidth heavy.
 
 According to Zoom, sharing video requires a **1.5 Mbps uplink**.
@@ -29,9 +39,3 @@ speedtest
 # via Python
 pip install speedtest-cli
 ```
-
-## Thinking Ahead
-
-Consider using a wired connection, as your internet speeds are generally faster and more stable via a wired ethernet.
-
-Ask your family & friends who share your internet bandwidth to not use it when you are presenting.
