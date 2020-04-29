@@ -7,7 +7,7 @@ headless: true
 - **Thesis Presentations**
 - [Guide to Presenting]({{< relref "../docs/thesis-presentations/guide-for-students" >}})
 - [Bandwidth Considerations]({{< relref "../docs/thesis-presentations/bandwidth-considerations" >}})
-- [Test Videos](https://drive.google.com/open?id=1iwHt82SltdSSdpxzF8DLmtgVJoU2mzof)
+- [Checklist]({{< relref "../docs/thesis-presentations/checklist" >}})
 - [FAQs]({{< relref "../docs/thesis-presentations/frequently-asked-questions" >}})
 <br />
 
