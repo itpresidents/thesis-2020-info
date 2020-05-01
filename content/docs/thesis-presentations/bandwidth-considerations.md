@@ -1,17 +1,15 @@
 ---
-title: Bandwidth Considerations
+title: Bandwidth Guide
 weight: 3
 ---
 
-# Bandwidth Considerations
+# Bandwidth Guide
 
-## Thinking Ahead
+## Planning Ahead
 
-Consider using a wired connection, as your internet speeds are generally faster and more stable via a wired ethernet.
-
-Ask your family & friends who share your internet bandwidth to not use it when you are presenting.
-
-Turn off any devices that auto-upload. Your upload speeds are important so backing up photos to iCloud should probably wait.
+* Consider using a wired connection, as your internet speeds are generally faster and more stable via wired ethernet.
+* Ask your family & friends who share your internet bandwidth to not use it while you are presenting.
+* Turn off any devices that auto-upload. Your upload speeds are important when presenting. Backing up photos to Dropbox or iCloud can wait.
 
 ## Zoom Requirements
 

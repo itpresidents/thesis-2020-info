@@ -5,10 +5,13 @@ headless: true
 <br />
 
 - **Thesis Presentations**
-- [Guide to Presenting]({{< relref "../docs/thesis-presentations/guide-for-students" >}})
-- [Bandwidth Considerations]({{< relref "../docs/thesis-presentations/bandwidth-considerations" >}})
 - [General Presenting Tips]({{< relref "../docs/thesis-presentations/general-tips" >}})
-- [Checklist]({{< relref "../docs/thesis-presentations/checklist" >}})
+- [Pre-Presentation Checklist]({{< relref "../docs/thesis-presentations/checklist" >}})
+- [Presentation Workflow]({{< relref "../docs/thesis-presentations/workflow" >}})
+- &nbsp;
+- [Guide to Presenting]({{< relref "../docs/thesis-presentations/guide-for-students" >}})
+- [Bandwidth Guide]({{< relref "../docs/thesis-presentations/bandwidth-considerations" >}})
+- &nbsp;
 - [FAQs]({{< relref "../docs/thesis-presentations/frequently-asked-questions" >}})
 <br />
 
