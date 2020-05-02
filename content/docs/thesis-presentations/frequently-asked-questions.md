@@ -32,11 +32,11 @@ For Thesis Week, you can invite friends and family to view the presentation by g
 
 **I wish there was an option to stream video that wasn't over Zoom**
 
-We do too but the residents are also a bit limited. There wasn't really a great solution that could satisfy everyone and so we opted to keep Thesis Week as a "live event" as it is by tradition. Note that you can choose to upload higher quality video afterwards.
+We do too but the residents are also a bit limited. There wasn't really a great solution that could satisfy everyone and so we opted to keep Thesis Week as a "live event" as it is by tradition. And to make up for it we're letting you choose to upload higher quality video afterwards to Vimeo(?), where Thesis Week recordings normally get uploaded for all of eternity.
 
 **What format will the Thesis Week recordings be?**
 
-TBD.
+TBD. There'll be a broadcast pipeline that should give us better quality than Zoom's Cloud Recording.
 
 **Can I get fancy?**
 
