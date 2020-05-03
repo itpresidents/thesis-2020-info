@@ -5,6 +5,8 @@ weight: 10
 
 # Virtual Backgrounds
 
+![Virtual Backgound](/virtual-background/floor/thesis-classic.jpg)
+
 ![Virtual Backgound](/virtual-background/floor/adjunct-area.jpg)
 
 ![Virtual Backgound](/virtual-background/floor/coding-lab.jpg)
