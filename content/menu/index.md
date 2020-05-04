@@ -21,6 +21,7 @@ headless: true
 
 - **For Critics**
 - [Viewing Guide]({{< relref "../docs/viewers/guide" >}})
+<br />
 
 - **For Residents**
 - [Guide to Hosting]({{< relref "../docs/residents/guide-to-hosting" >}})
