@@ -16,7 +16,8 @@ weight: 3
     - Lower the volume on any music or video(s) if you plan on talking over it. Test it with a Resident!
 - **Think about your last slide** - it will stay up during feedback. (May 5)
 - **Avoid using bluetooth headphones**, but if you do make sure they're charged.
-- **Try not to fidget or move around** in your seat while you’re presenting, such as moving back and forth or swiveling in your chair. It will be distracting for your reviewers.
+- If you can, **stand to present** as it encourages gestures and helps you sound more activated and energized.
+- **Try not to fidget or move around** while you’re presenting, such as moving back and forth or swiveling in your chair. It will be distracting for your reviewers.
 - Make sure your **background is professional**. See [How to Look Your Best on a Webcam](https://www.nytimes.com/2020/03/25/realestate/coronavirus-webcam-appearance.html).
 - **Practice your presentation** and time yourself!
 - If it's very noisy suddenly while you're presenting, feel free to stop, **wait for the noise to pass**, and then continue. 
