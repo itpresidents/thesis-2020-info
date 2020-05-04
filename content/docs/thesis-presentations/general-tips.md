@@ -14,7 +14,11 @@ weight: 3
 - **Pay attention to your audio levels**, including your mic.
     - Check that levels are consistent across different videos and adjust accordingly.
     - Lower the volume on any music or video(s) if you plan on talking over it. Test it with a Resident!
+- **Think about your last slide** - it will stay up during feedback. (May 5)
 - **Avoid using bluetooth headphones**, but if you do make sure they're charged.
 - **Try not to fidget or move around** in your seat while you’re presenting, such as moving back and forth or swiveling in your chair. It will be distracting for your reviewers.
 - Make sure your **background is professional**. See [How to Look Your Best on a Webcam](https://www.nytimes.com/2020/03/25/realestate/coronavirus-webcam-appearance.html).
 - **Practice your presentation** and time yourself!
+- If it's very noisy suddenly while you're presenting, feel free to stop, **wait for the noise to pass**, and then continue. 
+- Consider your backup plan if something goes wrong. You can start over, if you have to, you can continue where you left off, you can make a joke. It may happen, and if you're prepared mentally, you'll handle it with grace!
+

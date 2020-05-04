@@ -13,3 +13,4 @@ This is a quick guide to being a good citizen for ITP thesis presentations.
 2. Keep your **webcam turned on** to be respectful of everyone in the room.
 3. Use your **real name** and preferably a real photo in your Zoom profile.
 4. Keep yourself **muted** while someone else is presenting.
+5. Avoid Zoom backgrounds with animations.
