@@ -19,6 +19,9 @@ headless: true
 - [Instructions]({{< relref "../docs/thesis-archive/" >}})
 <br />
 
+- **For Critics**
+- [Viewing Guide]({{< relref "../docs/viewers/guide" >}})
+
 - **For Residents**
 - [Guide to Hosting]({{< relref "../docs/residents/guide-to-hosting" >}})
 <br />
