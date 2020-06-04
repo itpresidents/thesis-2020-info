@@ -71,7 +71,7 @@ Your zoom toolbar **should look like the below,** with a microphone that pulses 
 
 One of the challenges with streaming video from your computer with Zoom will be bandwidth limitations that often results in the video being choppy.   To optimize the quality of the video stream and reduce choppiness, it is **strongly recommeded you reduce your screen resolution.**  We found in our tests that smaller resolutions result in better streaming quality.  This is likely due to the fact that with a higher resolution, more pixels need to be streamed, so reducing the resolution means less pixels and more frames can be streamed. 
 
-**It is recommended your screen resolution is set to 720p (1280x720) or lower for sharing a video**.  The same goes for if you are doing a live presentation, and **your presentation features videos.**
+**It is recommended your screen resolution is set to ~720p (1280x720) for sharing a video**.  The same goes for if you are doing a live presentation, and **your presentation features videos.**
 
 ### On a mac:
 
