@@ -18,7 +18,9 @@ If your are showing a live presentation, you will be doing so via Zoom's screen 
 2. [Make sure your video camera is turned on, and your audio is enabled](#Make-sure-your-video-camera-is-turned-on-and-your-audio-is-enabled)
 3. When it is your turn to present, click to share your screen and start presenting. ![](https://i.imgur.com/bDq6v8k.png)
 
-If your presentation has audio or a video, **make sure to check the boxes 'Share computer sound' and 'Optimize for full-screen video clip'**
+If your presentation has audio or a video, **make sure to check the boxes 'Share computer sound'**
+
+**Update: Don't use 'Optimize for full-screen video clip' unless you've tested it** beforehand. We've found that this feature doesn't work as well as lowering your screen resolution.
 
 ![](https://i.imgur.com/8jewYcc.png)
 
@@ -36,7 +38,7 @@ If your are showing a pre-recorded video, you will be doing so via Zoom's screen
 2. [Make sure your video camera is turned on, and your audio is enabled](#Make-sure-your-video-camera-is-turned-on-and-your-audio-is-enabled)
 3. When it is your turn to present, click to share your screen or the video player. 
 
-**MAKE SURE TO CHECK THE BOXES 'Share computer sound'** and **'Optimize for full-screen video clip'**
+**MAKE SURE TO CHECK 'Share computer sound'**
 
 ![](https://i.imgur.com/8jewYcc.png)
 
